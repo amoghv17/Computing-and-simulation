@@ -1,12 +1,6 @@
 //
 // Created by 18649 on 9/13/2021.
-//
-/*  Nick Sweeting 2013/10/09
-    References vs Values in C++
-    MIT License
-    Takes input and removes puctuation and spaces, using two different methods.
-    It is referred from: https://github.com/pirate/Cpp-Data-Structures/
-*/
+
 
 #include <stdlib.h>
 #include <iostream>
